@@ -1,3 +1,7 @@
+![Screenshot (581)](https://user-images.githubusercontent.com/56989301/127802287-3833dd58-5c14-4610-b56e-a521276f9103.png)
+![Screenshot (582)](https://user-images.githubusercontent.com/56989301/127802290-19fa106f-4f1a-4c0b-93dc-25353d84b9e7.png)
+![Screenshot (583)](https://user-images.githubusercontent.com/56989301/127802293-eab19f47-2047-4e9f-abe4-1b849067b4ef.png)
+![Screenshot (584)](https://user-images.githubusercontent.com/56989301/127802295-c3bc8b53-c76c-4d04-893b-bafa96ba14ba.png)
 In this mini-project bricks breaker game is implemented by using OpenGL API’s and computer graphics concepts. When we start the bricks breaker game initially the gun is the constant position. To make the movement of the gun, the used different keyboard functions and display to make the program user interactive.
 
 The rectangle shape of bricks created outside the window the bricks move down. If we use only keyboard function then the only bullet will fire. If gunfire the bullet exact center of the bricks then collision of the bricks takes place. After the collision of bricks, the score will be increased.
